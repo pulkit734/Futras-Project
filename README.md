@@ -45,13 +45,12 @@ The project can be deployed using **GitHub Pages**:
 ---
 
 ## 📸 Screenshots
-Add screenshots here after deployment 👇
 
 | Home Page | Courses Section | Blog Section |
 |-----------|----------------|--------------|
 |<img width="1920" height="889" alt="Futras1" src="https://github.com/user-attachments/assets/b9f51d94-53ae-4124-b629-9eb17afcbd98" /> | <img width="1920" height="869" alt="Futras2" src="https://github.com/user-attachments/assets/10904646-1091-40f0-9554-07bb13efcff1" />
  | <img width="1912" height="882" alt="Futras3" src="https://github.com/user-attachments/assets/f1d600e4-d2b1-4592-ad99-8fc964be0174" />
- |
+ 
 
 
 ---
