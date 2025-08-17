@@ -47,12 +47,10 @@ The project can be deployed using **GitHub Pages**:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b9f51d94-53ae-4124-b629-9eb17afcfbd98" alt="Futras1" width="30%" />
-  <img src="https://github.com/user-attachments/assets/10904646-1091-40f0-9554-07bb1aefcff1" alt="Futras2" width="30%" />
-  <img src="https://github.com/user-attachments/assets/f1d600e4-d2b1-4592-ad99-8fc964be0174" alt="Futras3" width="30%" />
+  <img width="1920" height="889" alt="Futras1" src="https://github.com/user-attachments/assets/485a02f0-3d44-4f3c-852d-939a5eaa8b4f" /> 
+  <img width="1920" height="869" alt="Futras2" src="https://github.com/user-attachments/assets/567f7d98-9e04-4e60-b88d-f190d8299bb1" />
+  <img width="1912" height="882" alt="Futras3" src="https://github.com/user-attachments/assets/c6484fd3-89e6-4a61-9cca-1331a0edf870" />
 </p>
-
- 
 
 
 ---
